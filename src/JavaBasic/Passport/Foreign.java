@@ -1,3 +1,5 @@
+package JavaBasic.Passport;
+
 public class Foreign {
 }
 

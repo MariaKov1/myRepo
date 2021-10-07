@@ -1,3 +1,5 @@
+package JavaBasic.Students;
+
 public class Student {
 
     private String FIO, dateOfBirth;

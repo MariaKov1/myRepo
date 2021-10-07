@@ -1,4 +1,4 @@
-package address;
+package JavaBasic.Adress;
 
 public class Address {
 
