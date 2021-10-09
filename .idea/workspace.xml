@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4a9efffe-ad01-4a3f-bece-3525797df479" name="Changes" comment="Students">
-      <change afterPath="$PROJECT_DIR$/src/Arithmetics.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Foreign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/KwadratCisla.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Passport.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/SumMin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Translator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ЧислоЭйлераИПи.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +70,7 @@
       <updated>1633454018079</updated>
       <workItem from="1633454020453" duration="7669000" />
       <workItem from="1633622809534" duration="114000" />
-      <workItem from="1633627295267" duration="7767000" />
+      <workItem from="1633627295267" duration="8346000" />
     </task>
     <task id="LOCAL-00001" summary="Students">
       <created>1633464400272</created>
@@ -90,7 +79,21 @@
       <option name="project" value="LOCAL" />
       <updated>1633464400272</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Students">
+      <created>1633636479878</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1633636479878</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Students">
+      <created>1633636615074</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1633636615074</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
