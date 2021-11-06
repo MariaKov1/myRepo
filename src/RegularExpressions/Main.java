@@ -9,7 +9,7 @@ import java.util.regex.Pattern;
 //Выведите строки на консоль
 public class Main {
     public static void main(String[] args) {
-        Pattern p = Pattern.compile("a,b");
+        Pattern p = Pattern.compile("a.b");
         Matcher m = p.matcher("ahb acb aeb aeeb adcb axeb");
 
         while (m.find()) {
